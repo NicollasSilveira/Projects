@@ -1,0 +1,34 @@
+
+.elemento{
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 9px;
+    width: 6.1em;
+    height: 6.1em;
+    background-color: greenyellow;
+    line-height: 1.5px;
+    padding: 9px;
+    margin: 6px;
+}
+
+.num{
+    text-align: left;
+    font-size: 0.9em;
+}
+
+.simbolo{
+    text-align: center;
+    font-size: 2em;
+}
+
+.Ma{
+    text-align: center;
+    font-size: 0.9em;
+}
+
+.nome{
+    text-align: center;
+    font-size: 0.9em;
+}
+

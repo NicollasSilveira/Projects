@@ -1,0 +1,34 @@
+PROJETO EM CSS HTML E JS.
+
+FRAMEWORKS:
+null.
+
+OBJETIVOS: Fazer um site que tenha uma tabela periodica animada que quando clicada em algum elemento ele extende e mostra em escala maior, com descrição avançada e imagem fisica do elemento, ou seja, uma imagem minizada e outra imagem maior que cobre a maior parte da tela.
+
+Diagrama de classe:
+Classe (Objeto): Elemento.
+// Miniatura
+
+PK String simbolo
+String nome
+String numeroAto
+String massaAto
+
+//extensão
+
+String DistriEletro
+String fml
+String Descricao
+
+HTML:
+
+SCC:
+
+JS(Framenwork):
+
+DIVISÃO DE ARQUIVOS:
+base
+objetos
+css
+js
+pasta imagens
